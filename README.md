@@ -1,1 +1,1 @@
-My first readmr
+How to be up to date in git
